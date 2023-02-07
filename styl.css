@@ -1,0 +1,24 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    background-color: #e8b505;
+}
+
+main {
+    width: 700px;
+    margin: auto;
+}
+img {
+    max-width: 700px;
+    margin: auto;
+    display: block;
+}
+h2 {
+    text-align: center;
+}
+
+.i {
+    text-align: center;
+    
+}
